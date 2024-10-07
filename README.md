@@ -517,5 +517,7 @@ int main(int argc, char **argv)
 ## WITH MEMSET
 ![image](https://github.com/user-attachments/assets/def818e7-dc0b-40c8-b9e6-3714493d7a64)
 ## WITHOUT MEMSET
+![image](https://github.com/user-attachments/assets/dceeb365-4a12-48ce-9aeb-b0a97f409e7d)
+
 ## RESULT:
 Thus the program has been executed by using unified memory. It is observed that removing memset function has given less  0.039412 time.
